@@ -5,6 +5,7 @@ public class Task65 {
         int i = 0;
         while (i <= height){
             
+            System.out.println();
             i++;
         }
     }
